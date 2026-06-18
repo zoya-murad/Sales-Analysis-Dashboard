@@ -18,6 +18,20 @@ and visualizes it in an interactive dashboard that auto refreshes every 24 hours
 | `eda.py` | Creates 5 exploratory analysis charts |
 | `auto_refresh.py` | Automates full pipeline every 24 hours |
 
+## 📸 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](Executive%20Summary.png)
+
+### Sales Trends
+![Sales Trends](Sales%20Trends.png)
+
+### Product Performance
+![Product Performance](Product%20Performance.png)
+
+### Profit Analysis
+![Profit Analysis](Profit%20Analysis%20.png)
+
 ## 📊 Key Insights
 - 📈 Monthly revenue trends across 2023
 - 🌍 Regional performance comparison
