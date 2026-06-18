@@ -136,6 +136,22 @@ With these strategies implemented, the business has strong potential to grow rev
 ### Profit Analysis
 <img src="Profit Analysis .png" width="800"/>
 
+## 📈 Exploratory Data Analysis (EDA)
+
+### Monthly Revenue Trend
+<img src="eda_monthly_revenue.png" width="500"/>
+
+### Revenue by Region
+<img src="eda_region_revenue.png" width="500"/>
+
+### Profit by Product
+<img src="eda_product_profit.png" width="500"/>
+
+### Revenue by Category
+<img src="eda_category_revenue.png" width="500"/>
+
+### Correlation Heatmap
+<img src="eda_correlation.png" width="500"/>
 
 ## ⚙️ How to Run
 ```bash
