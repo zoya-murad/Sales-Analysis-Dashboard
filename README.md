@@ -21,16 +21,19 @@ and visualizes it in an interactive dashboard that auto refreshes every 24 hours
 ## 📸 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Executive%20Summary.png)
+<img src="Executive Summary.png" width="800"/>
 
 ### Sales Trends
-![Sales Trends](Sales%20Trends.png)
+<img src="Sales Trends.png" width="800"/>
+
+### Regional Analysis
+<img src="Regional Analysis.png" width="800"/>
 
 ### Product Performance
-![Product Performance](Product%20Performance.png)
+<img src="Product Performance.png" width="800"/>
 
 ### Profit Analysis
-![Profit Analysis](Profit%20Analysis%20.png)
+<img src="Profit Analysis .png" width="800"/>
 
 ## 📊 Key Insights
 - 📈 Monthly revenue trends across 2023
