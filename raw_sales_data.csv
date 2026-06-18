@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Units_Sold,Revenue,Cost,Profit
+2023-06-22,Headphones,Accessories,Phoenix,6,278.45,155.93,122.52
+2023-12-12,Printer,Accessories,New York,10,1569.16,894.42,674.74
+2023-08-03,Keyboard,Peripherals,Houston,17,1121.6,684.18,437.42
+2023-03-09,Printer,Accessories,New York,1,1275.57,548.5,727.07
+2023-09-25,Headphones,Accessories,New York,2,782.49,492.97,289.52
+2023-12-21,Tablet,Electronics,Los Angeles,5,1919.29,882.87,1036.42
+2023-06-03,Keyboard,Peripherals,Los Angeles,7,1251.6,713.41,538.19
+2023-03-05,Phone,Electronics,New York,6,781.45,539.2,242.25
+2023-12-11,Monitor,Peripherals,New York,20,1986.4,1291.16,695.24
+2023-05-25,Monitor,Peripherals,Los Angeles,19,1809.92,1067.85,742.07
+2023-08-19,Laptop,Electronics,Phoenix,20,2826.84,1300.35,1526.49
+2023-03-06,Phone,Electronics,Los Angeles,6,659.09,283.41,375.68
+2023-05-18,Laptop,Electronics,New York,6,2580.39,1264.39,1316.0
+2023-04-29,Phone,Electronics,Los Angeles,12,1242.83,521.99,720.84
+2023-02-07,Laptop,Electronics,Chicago,4,692.27,339.21,353.06
+2023-01-14,Laptop,Electronics,New York,9,1611.05,1063.29,547.76
+2023-09-25,Monitor,Peripherals,New York,20,776.4,465.84,310.56
+2023-05-11,Keyboard,Peripherals,Chicago,11,237.19,116.22,120.97
+2023-12-02,Keyboard,Peripherals,Houston,5,1370.65,685.33,685.33
+2023-05-13,Tablet,Electronics,Houston,15,1471.61,897.68,573.93
+2023-11-27,Monitor,Peripherals,New York,18,1374.54,563.56,810.98
+2023-03-02,Phone,Electronics,Phoenix,2,1862.37,912.56,949.81
+2023-05-25,Phone,Electronics,New York,14,1130.33,779.93,350.4
+2023-09-13,Tablet,Electronics,Los Angeles,5,2909.78,1804.06,1105.72
+2023-09-22,Keyboard,Peripherals,Los Angeles,14,1426.76,784.72,642.04
+2023-07-27,Printer,Accessories,Houston,14,621.19,366.5,254.69
+2023-03-16,Keyboard,Peripherals,New York,9,2919.6,1197.04,1722.56
+2023-04-26,Phone,Electronics,Phoenix,18,659.18,428.47,230.71
+2023-03-07,Headphones,Accessories,Los Angeles,16,2093.53,1381.73,711.8
+2023-12-30,Headphones,Accessories,Houston,1,2531.49,1645.47,886.02
+2023-07-27,Headphones,Accessories,Phoenix,7,1653.31,1140.78,512.53
+2023-11-02,Laptop,Electronics,Phoenix,2,2456.05,1547.31,908.74
+2023-12-25,Keyboard,Peripherals,New York,12,1395.02,795.16,599.86
+2023-04-13,Phone,Electronics,Houston,17,495.43,312.12,183.31
+2023-08-24,Printer,Accessories,Phoenix,5,2809.52,1264.28,1545.24
+2023-09-28,Monitor,Peripherals,Phoenix,4,1158.34,695.0,463.34
+2023-12-01,Phone,Electronics,Phoenix,2,1473.62,1031.53,442.09
+2023-09-05,Printer,Accessories,Houston,8,924.12,646.88,277.24
+2023-05-30,Monitor,Peripherals,Chicago,14,727.93,502.27,225.66
+2023-04-15,Monitor,Peripherals,New York,4,620.06,322.43,297.63
+2023-03-04,Monitor,Peripherals,Phoenix,18,2705.88,1488.23,1217.65
+2023-01-08,Tablet,Electronics,Phoenix,7,2997.27,1558.58,1438.69
+2023-03-27,Keyboard,Peripherals,Houston,11,1316.47,684.56,631.91
+2023-12-02,Phone,Electronics,Houston,8,783.51,407.43,376.08
+2023-10-11,Headphones,Accessories,New York,8,610.72,299.25,311.47
+2023-02-22,Keyboard,Peripherals,Houston,19,290.89,171.63,119.26
+2023-05-07,Tablet,Electronics,Houston,2,2732.89,1393.77,1339.12
+2023-04-29,Phone,Electronics,Los Angeles,6,308.5,151.16,157.34
+2023-01-05,Keyboard,Peripherals,Chicago,13,1910.19,1127.01,783.18
+2023-08-01,Laptop,Electronics,Houston,6,578.3,323.85,254.45
+2023-04-16,Phone,Electronics,Phoenix,18,812.39,349.33,463.06
+2023-03-05,Tablet,Electronics,New York,16,2471.6,1013.36,1458.24
+2023-07-29,Phone,Electronics,Houston,19,1019.67,489.44,530.23
+2023-09-14,Keyboard,Peripherals,Houston,10,2701.18,1647.72,1053.46
+2023-10-05,Phone,Electronics,Phoenix,11,1813.87,761.83,1052.04
+2023-04-11,Printer,Accessories,Chicago,17,2948.32,1651.06,1297.26
+2023-02-01,Tablet,Electronics,Chicago,16,941.79,452.06,489.73
+2023-10-23,Printer,Accessories,Chicago,20,321.05,215.1,105.95
+2023-09-26,Keyboard,Peripherals,Chicago,16,1158.04,509.54,648.5
+2023-02-20,Phone,Electronics,Los Angeles,9,2803.44,1401.72,1401.72
+2023-05-10,Headphones,Accessories,Phoenix,1,857.2,548.61,308.59
+2023-08-30,Printer,Accessories,New York,19,818.77,368.45,450.32
+2023-01-20,Laptop,Electronics,Houston,20,1411.78,917.66,494.12
+2023-11-10,Phone,Electronics,Phoenix,13,2101.65,840.66,1260.99
+2023-07-14,Headphones,Accessories,Los Angeles,9,506.22,318.92,187.3
+2023-06-02,Printer,Accessories,Phoenix,20,881.08,537.46,343.62
+2023-07-04,Tablet,Electronics,Los Angeles,17,2711.28,1816.56,894.72
+2023-11-14,Laptop,Electronics,Phoenix,3,1238.94,607.08,631.86
+2023-11-12,Tablet,Electronics,Phoenix,18,229.18,96.26,132.92
+2023-12-11,Headphones,Accessories,Houston,3,1445.54,737.23,708.31
+2023-11-25,Printer,Accessories,Phoenix,14,2821.36,1213.18,1608.18
+2023-08-05,Phone,Electronics,New York,20,2635.63,1106.96,1528.67
+2023-06-04,Printer,Accessories,Phoenix,16,2862.15,1202.1,1660.05
+2023-03-12,Keyboard,Peripherals,Chicago,15,2451.01,1348.06,1102.95
+2023-04-02,Monitor,Peripherals,Phoenix,19,2682.88,1341.44,1341.44
+2023-12-18,Headphones,Accessories,Phoenix,6,817.65,384.3,433.35
+2023-10-31,Headphones,Accessories,Phoenix,6,2311.24,1317.41,993.83
+2023-11-16,Keyboard,Peripherals,Los Angeles,18,2971.04,1366.68,1604.36
+2023-10-11,Tablet,Electronics,Los Angeles,1,2557.14,1585.43,971.71
+2023-09-15,Laptop,Electronics,New York,3,630.72,397.35,233.37
+2023-08-29,Printer,Accessories,Phoenix,18,220.77,97.14,123.63
+2023-06-12,Headphones,Accessories,Los Angeles,4,1596.62,782.34,814.28
+2023-03-30,Laptop,Electronics,Los Angeles,7,2820.01,1297.2,1522.81
+2023-07-21,Tablet,Electronics,Phoenix,19,1679.62,1125.35,554.27
+2023-04-22,Laptop,Electronics,Phoenix,19,2364.74,1489.79,874.95
+2023-09-26,Tablet,Electronics,New York,1,2553.57,1761.96,791.61
+2023-09-03,Monitor,Peripherals,Chicago,18,1050.08,472.54,577.54
+2023-06-12,Laptop,Electronics,Houston,15,2080.49,1414.73,665.76
+2023-08-23,Monitor,Peripherals,Los Angeles,6,2341.38,1194.1,1147.28
+2023-05-27,Phone,Electronics,New York,2,2272.53,1477.14,795.39
+2023-11-10,Laptop,Electronics,New York,13,1472.78,942.58,530.2
+2023-04-13,Headphones,Accessories,Chicago,9,1040.01,572.01,468.0
+2023-10-25,Phone,Electronics,Los Angeles,17,2320.99,1044.45,1276.54
+2023-07-15,Headphones,Accessories,Chicago,16,1752.23,1121.43,630.8
+2023-05-04,Phone,Electronics,Los Angeles,14,1544.62,648.74,895.88
+2023-09-01,Printer,Accessories,New York,19,427.24,213.62,213.62
+2023-09-26,Headphones,Accessories,New York,15,818.59,433.85,384.74
+2023-04-30,Monitor,Peripherals,Phoenix,17,1608.01,948.73,659.28
+2023-10-17,Headphones,Accessories,Phoenix,7,1850.45,795.69,1054.76
+2023-08-10,Laptop,Electronics,Phoenix,16,611.93,330.44,281.49
+2023-01-07,Keyboard,Peripherals,New York,8,2142.66,1499.86,642.8
+2023-03-16,Headphones,Accessories,Chicago,20,352.55,158.65,193.9
+2023-06-02,Tablet,Electronics,New York,11,374.51,254.67,119.84
+2023-12-05,Tablet,Electronics,New York,13,1995.98,1237.51,758.47
+2023-08-28,Headphones,Accessories,Los Angeles,11,859.06,420.94,438.12
+2023-04-06,Monitor,Peripherals,Houston,2,2302.72,1174.39,1128.33
+2023-06-09,Monitor,Peripherals,Houston,6,2221.91,1199.83,1022.08
+2023-11-02,Laptop,Electronics,Los Angeles,18,2619.62,1205.03,1414.59
+2023-10-19,Headphones,Accessories,Chicago,5,2743.44,1783.24,960.2
+2023-08-17,Printer,Accessories,Phoenix,2,2192.18,1096.09,1096.09
+2023-01-17,Headphones,Accessories,New York,17,2698.67,1673.18,1025.49
+2023-01-27,Tablet,Electronics,Houston,6,553.52,238.01,315.51
+2023-10-08,Headphones,Accessories,Chicago,10,1901.21,912.58,988.63
+2023-02-23,Headphones,Accessories,New York,9,710.5,433.4,277.1
+2023-12-07,Keyboard,Peripherals,Phoenix,15,790.11,481.97,308.14
+2023-10-17,Keyboard,Peripherals,New York,18,2890.09,1878.56,1011.53
+2023-01-22,Headphones,Accessories,New York,15,2764.31,1713.87,1050.44
+2023-05-30,Monitor,Peripherals,New York,18,915.71,476.17,439.54
+2023-06-09,Headphones,Accessories,New York,4,1402.72,897.74,504.98
+2023-12-24,Phone,Electronics,New York,5,447.4,178.96,268.44
+2023-12-16,Monitor,Peripherals,Phoenix,11,311.13,186.68,124.45
+2023-10-07,Phone,Electronics,Chicago,11,1626.45,1138.51,487.94
+2023-02-01,Monitor,Peripherals,Phoenix,9,447.59,219.32,228.27
+2023-01-08,Laptop,Electronics,Phoenix,5,750.26,360.12,390.14
+2023-04-06,Phone,Electronics,Chicago,3,2350.76,1457.47,893.29
+2023-04-20,Headphones,Accessories,Houston,6,212.5,108.38,104.12
+2023-03-10,Laptop,Electronics,New York,16,440.72,189.51,251.21
+2023-02-21,Monitor,Peripherals,Houston,4,1025.65,687.19,338.46
+2023-12-24,Printer,Accessories,New York,16,871.26,592.46,278.8
+2023-09-27,Monitor,Peripherals,Los Angeles,15,801.56,529.03,272.53
+2023-12-29,Laptop,Electronics,New York,14,2963.63,1837.45,1126.18
+2023-07-12,Phone,Electronics,New York,18,1191.95,536.38,655.57
+2023-09-04,Phone,Electronics,Houston,14,868.78,538.64,330.14
+2023-12-02,Headphones,Accessories,Phoenix,15,1262.91,820.89,442.02
+2023-01-03,Laptop,Electronics,New York,17,2215.02,1041.06,1173.96
+2023-12-10,Printer,Accessories,Los Angeles,10,2910.49,1164.2,1746.29
+2023-04-04,Tablet,Electronics,Chicago,19,2250.68,1350.41,900.27
+2023-04-30,Headphones,Accessories,Phoenix,18,720.85,389.26,331.59
+2023-10-27,Keyboard,Peripherals,Phoenix,15,2420.79,1186.19,1234.6
+2023-04-01,Monitor,Peripherals,Chicago,4,979.74,558.45,421.29
+2023-09-07,Headphones,Accessories,Houston,17,511.24,286.29,224.95
+2023-04-16,Phone,Electronics,Houston,19,629.4,396.52,232.88
+2023-02-25,Monitor,Peripherals,Houston,18,1568.95,627.58,941.37
+2023-05-29,Laptop,Electronics,Houston,18,657.36,328.68,328.68
+2023-03-28,Tablet,Electronics,Houston,11,2657.25,1806.93,850.32
+2023-04-21,Tablet,Electronics,Los Angeles,20,422.11,282.81,139.3
+2023-01-16,Phone,Electronics,Los Angeles,5,1232.39,801.05,431.34
+2023-04-19,Monitor,Peripherals,Phoenix,17,1266.75,519.37,747.38
+2023-05-14,Phone,Electronics,New York,8,2014.57,825.97,1188.6
+2023-12-08,Headphones,Accessories,Phoenix,15,1346.54,579.01,767.53
+2023-09-22,Headphones,Accessories,Los Angeles,8,2984.0,1939.6,1044.4
+2023-02-13,Phone,Electronics,New York,8,200.03,136.02,64.01
+2023-08-26,Monitor,Peripherals,Chicago,1,1562.18,1077.9,484.28
+2023-01-30,Monitor,Peripherals,Phoenix,11,751.07,330.47,420.6
+2023-02-22,Monitor,Peripherals,Los Angeles,4,2909.76,1629.47,1280.29
+2023-12-05,Headphones,Accessories,Los Angeles,2,2944.56,2002.3,942.26
+2023-03-08,Keyboard,Peripherals,Phoenix,8,898.89,611.25,287.64
+2023-04-12,Tablet,Electronics,New York,8,1562.66,875.09,687.57
+2023-02-05,Printer,Accessories,New York,2,1841.04,902.11,938.93
+2023-08-17,Laptop,Electronics,Houston,8,2446.79,1198.93,1247.86
+2023-05-01,Laptop,Electronics,New York,20,657.36,341.83,315.53
+2023-01-13,Headphones,Accessories,Houston,9,1985.36,1052.24,933.12
+2023-09-29,Laptop,Electronics,New York,6,1183.5,520.74,662.76
+2023-04-03,Monitor,Peripherals,New York,6,1479.31,872.79,606.52
+2023-05-07,Printer,Accessories,Houston,12,1622.45,778.78,843.67
+2023-03-27,Keyboard,Peripherals,Phoenix,12,2941.88,1412.1,1529.78
+2023-12-12,Monitor,Peripherals,Houston,19,1408.93,760.82,648.11
+2023-06-16,Monitor,Peripherals,Los Angeles,16,927.35,370.94,556.41
+2023-04-13,Laptop,Electronics,New York,4,2819.6,1860.94,958.66
+2023-12-20,Monitor,Peripherals,Phoenix,7,2019.36,1211.62,807.74
+2023-07-16,Headphones,Accessories,New York,15,898.27,529.98,368.29
+2023-08-17,Keyboard,Peripherals,Chicago,2,2112.0,1224.96,887.04
+2023-12-29,Tablet,Electronics,Chicago,19,352.95,229.42,123.53
+2023-12-07,Phone,Electronics,Chicago,20,935.64,552.03,383.61
+2023-06-30,Tablet,Electronics,Phoenix,9,306.38,140.93,165.45
+2023-03-21,Tablet,Electronics,Phoenix,3,741.41,422.6,318.81
+2023-06-02,Keyboard,Peripherals,Los Angeles,1,2529.41,1290.0,1239.41
+2023-10-23,Monitor,Peripherals,Los Angeles,6,2593.13,1115.05,1478.08
+2023-01-29,Headphones,Accessories,Phoenix,7,1347.62,929.86,417.76
+2023-09-17,Tablet,Electronics,New York,2,1119.06,537.15,581.91
+2023-12-24,Tablet,Electronics,Phoenix,2,2026.35,1377.92,648.43
+2023-07-15,Laptop,Electronics,Phoenix,16,1528.02,764.01,764.01
+2023-04-13,Laptop,Electronics,New York,19,1478.13,975.57,502.56
+2023-07-21,Printer,Accessories,New York,8,1888.0,849.6,1038.4
+2023-09-29,Printer,Accessories,Los Angeles,10,2698.34,1726.94,971.4
+2023-08-17,Laptop,Electronics,Houston,14,2712.23,1654.46,1057.77
+2023-06-15,Keyboard,Peripherals,Chicago,17,1485.35,950.62,534.73
+2023-09-05,Monitor,Peripherals,Houston,17,1685.27,1129.13,556.14
+2023-10-16,Headphones,Accessories,Houston,11,1158.91,475.15,683.76
+2023-05-18,Monitor,Peripherals,New York,14,2832.33,1472.81,1359.52
+2023-03-24,Keyboard,Peripherals,Los Angeles,14,1101.4,682.87,418.53
+2023-05-15,Tablet,Electronics,Houston,8,260.85,140.86,119.99
+2023-08-12,Laptop,Electronics,Chicago,14,1774.55,976.0,798.55
+2023-01-09,Printer,Accessories,Houston,7,1851.09,758.95,1092.14
+2023-04-04,Phone,Electronics,Phoenix,10,1289.69,838.3,451.39
+2023-12-27,Keyboard,Peripherals,New York,12,1532.19,858.03,674.16
+2023-09-02,Printer,Accessories,Phoenix,10,1630.63,994.68,635.95
+2023-05-05,Headphones,Accessories,Phoenix,3,2355.93,1201.52,1154.41
+2023-01-04,Laptop,Electronics,Los Angeles,20,483.4,328.71,154.69
+2023-07-20,Keyboard,Peripherals,New York,16,1958.32,1096.66,861.66
+2023-07-22,Laptop,Electronics,Phoenix,19,1526.77,732.85,793.92
+2023-02-12,Phone,Electronics,Phoenix,10,1413.38,975.23,438.15
+2023-04-10,Keyboard,Peripherals,New York,15,983.18,570.24,412.94
+2023-02-01,Keyboard,Peripherals,New York,19,2689.95,1425.67,1264.28
+2023-12-12,Keyboard,Peripherals,Phoenix,18,2428.84,1141.55,1287.29
+2023-08-13,Monitor,Peripherals,New York,14,1995.46,1257.14,738.32
+2023-11-16,Printer,Accessories,Phoenix,12,288.24,123.94,164.3
+2023-04-17,Phone,Electronics,Los Angeles,3,2455.24,1276.72,1178.52
+2023-05-04,Monitor,Peripherals,Chicago,6,1464.69,615.17,849.52
+2023-06-13,Phone,Electronics,Phoenix,11,787.71,322.96,464.75
+2023-07-14,Monitor,Peripherals,Houston,11,2157.57,1165.09,992.48
+2023-03-14,Tablet,Electronics,Houston,4,1205.79,482.32,723.47
+2023-12-30,Printer,Accessories,Phoenix,4,2657.99,1408.73,1249.26
+2023-08-02,Phone,Electronics,Chicago,4,1812.3,1069.26,743.04
+2023-06-22,Monitor,Peripherals,Houston,12,2216.99,1175.0,1041.99
+2023-09-24,Printer,Accessories,Houston,7,767.14,414.26,352.88
+2023-04-27,Tablet,Electronics,New York,16,1871.29,1066.64,804.65
+2023-05-01,Printer,Accessories,Chicago,11,471.72,221.71,250.01
+2023-08-05,Headphones,Accessories,Chicago,14,1201.95,817.33,384.62
+2023-04-17,Keyboard,Peripherals,Chicago,20,1977.38,1008.46,968.92
+2023-03-08,Tablet,Electronics,Los Angeles,18,2252.41,1148.73,1103.68
+2023-12-09,Headphones,Accessories,Houston,20,2056.27,1110.39,945.88
+2023-10-23,Tablet,Electronics,New York,19,2543.17,1551.33,991.84
+2023-03-28,Headphones,Accessories,New York,18,2720.34,1468.98,1251.36
+2023-01-25,Monitor,Peripherals,New York,14,2065.98,929.69,1136.29
+2023-07-30,Phone,Electronics,Chicago,7,2531.86,1038.06,1493.8
+2023-09-24,Headphones,Accessories,Houston,2,2230.23,1226.63,1003.6
+2023-03-15,Monitor,Peripherals,Chicago,19,394.55,252.51,142.04
+2023-08-04,Keyboard,Peripherals,Chicago,7,1336.84,548.1,788.74
+2023-03-11,Tablet,Electronics,Chicago,11,929.66,381.16,548.5
+2023-11-04,Headphones,Accessories,Phoenix,7,1319.13,791.48,527.65
+2023-05-03,Headphones,Accessories,Houston,9,2845.69,1451.3,1394.39
+2023-01-24,Printer,Accessories,Chicago,2,1615.06,1098.24,516.82
+2023-04-20,Keyboard,Peripherals,New York,20,1902.25,1027.22,875.03
+2023-09-16,Laptop,Electronics,Chicago,20,267.5,184.57,82.93
+2023-05-21,Monitor,Peripherals,New York,9,1308.61,575.79,732.82
+2023-05-26,Headphones,Accessories,Chicago,14,2767.4,1798.81,968.59
+2023-05-14,Headphones,Accessories,Chicago,14,2054.13,1396.81,657.32
+2023-06-26,Keyboard,Peripherals,Chicago,3,2232.53,1160.92,1071.61
+2023-09-20,Tablet,Electronics,New York,2,228.87,157.92,70.95
+2023-06-13,Printer,Accessories,Los Angeles,11,676.3,351.68,324.62
+2023-05-18,Printer,Accessories,Phoenix,19,2048.29,880.76,1167.53
+2023-11-28,Laptop,Electronics,Phoenix,11,2762.26,1767.85,994.41
+2023-06-22,Laptop,Electronics,Phoenix,9,965.2,492.25,472.95
+2023-11-16,Keyboard,Peripherals,New York,1,764.84,344.18,420.66
+2023-02-15,Phone,Electronics,Houston,20,2461.04,1353.57,1107.47
+2023-03-04,Phone,Electronics,Chicago,13,366.6,190.63,175.97
+2023-11-16,Printer,Accessories,New York,10,2057.35,1090.4,966.95
+2023-01-17,Tablet,Electronics,Chicago,3,1729.48,916.62,812.86
+2023-05-07,Phone,Electronics,New York,8,1896.22,1213.58,682.64
+2023-04-30,Printer,Accessories,Los Angeles,14,2570.88,1619.65,951.23
+2023-10-14,Keyboard,Peripherals,Phoenix,20,574.12,321.51,252.61
+2023-10-30,Headphones,Accessories,Houston,5,2388.04,1170.14,1217.9
+2023-07-12,Printer,Accessories,Chicago,12,1668.3,867.52,800.78
+2023-12-05,Printer,Accessories,Chicago,11,2257.29,1489.81,767.48
+2023-02-01,Monitor,Peripherals,New York,1,1637.07,703.94,933.13
+2023-03-29,Printer,Accessories,Chicago,10,1140.73,661.62,479.11
+2023-07-13,Tablet,Electronics,Houston,12,1639.75,705.09,934.66
+2023-09-21,Headphones,Accessories,Chicago,17,2818.99,1832.34,986.65
+2023-06-07,Monitor,Peripherals,Houston,9,2924.21,1462.11,1462.11
+2023-02-16,Tablet,Electronics,Chicago,11,1736.18,1059.07,677.11
+2023-05-06,Laptop,Electronics,Houston,5,1589.32,937.7,651.62
+2023-10-12,Printer,Accessories,Los Angeles,14,1816.39,1198.82,617.57
+2023-03-27,Laptop,Electronics,Chicago,16,2167.13,1018.55,1148.58
+2023-03-26,Keyboard,Peripherals,New York,19,2943.34,1530.54,1412.8
+2023-11-24,Keyboard,Peripherals,New York,18,2463.31,1428.72,1034.59
+2023-06-23,Phone,Electronics,Chicago,19,2205.5,1279.19,926.31
+2023-06-24,Monitor,Peripherals,Los Angeles,17,2828.94,1414.47,1414.47
+2023-08-07,Printer,Accessories,Los Angeles,9,2956.58,1419.16,1537.42
+2023-06-07,Laptop,Electronics,Los Angeles,4,2545.48,1221.83,1323.65
+2023-08-26,Phone,Electronics,New York,18,213.4,128.04,85.36
+2023-09-05,Keyboard,Peripherals,Phoenix,2,435.59,222.15,213.44
+2023-01-06,Headphones,Accessories,Los Angeles,20,2333.93,1517.05,816.88
+2023-07-08,Keyboard,Peripherals,New York,2,2516.84,1233.25,1283.59
+2023-08-24,Monitor,Peripherals,Phoenix,8,289.77,130.4,159.37
+2023-07-11,Monitor,Peripherals,Chicago,2,2222.08,1555.46,666.62
+2023-05-26,Printer,Accessories,Chicago,12,2503.63,1276.85,1226.78
+2023-02-25,Laptop,Electronics,Houston,6,2088.13,1127.59,960.54
+2023-06-13,Tablet,Electronics,New York,11,998.88,439.51,559.37
+2023-12-16,Tablet,Electronics,Chicago,9,2214.54,1173.71,1040.83
+2023-06-29,Printer,Accessories,New York,16,1223.72,538.44,685.28
+2023-06-23,Tablet,Electronics,Phoenix,4,1737.59,1025.18,712.41
+2023-04-13,Phone,Electronics,Chicago,18,516.5,325.39,191.1
+2023-02-06,Monitor,Peripherals,Chicago,18,1239.57,656.97,582.6
+2023-07-15,Monitor,Peripherals,Phoenix,7,2436.77,1535.17,901.6
+2023-09-23,Laptop,Electronics,Phoenix,3,1235.21,543.49,691.72
+2023-01-26,Keyboard,Peripherals,Los Angeles,11,2830.75,1302.14,1528.61
+2023-03-30,Phone,Electronics,Houston,12,1723.21,758.21,965.0
+2023-05-24,Phone,Electronics,Chicago,16,2621.59,1468.09,1153.5
+2023-08-16,Monitor,Peripherals,Houston,19,2995.08,1886.9,1108.18
+2023-04-22,Tablet,Electronics,Phoenix,11,1388.29,791.33,596.96
+2023-12-12,Phone,Electronics,Chicago,2,874.28,437.14,437.14
+2023-08-17,Headphones,Accessories,Chicago,16,1798.46,755.35,1043.11
+2023-02-04,Monitor,Peripherals,Phoenix,3,1936.98,871.64,1065.34
+2023-12-28,Laptop,Electronics,Chicago,17,1027.17,472.5,554.67
+2023-12-13,Tablet,Electronics,Chicago,2,707.23,396.05,311.18
+2023-09-05,Keyboard,Peripherals,Los Angeles,15,1554.8,668.56,886.24
+2023-05-14,Monitor,Peripherals,Phoenix,17,2389.56,1433.74,955.82
+2023-10-06,Printer,Accessories,Houston,20,1508.57,1010.74,497.83
+2023-02-25,Headphones,Accessories,Los Angeles,17,2087.82,981.28,1106.54
+2023-12-19,Monitor,Peripherals,Los Angeles,5,1449.68,811.82,637.86
+2023-03-27,Headphones,Accessories,Phoenix,3,282.42,180.75,101.67
+2023-02-14,Printer,Accessories,Phoenix,1,2605.85,1745.92,859.93
+2023-04-06,Tablet,Electronics,New York,20,1718.1,687.24,1030.86
+2023-12-28,Tablet,Electronics,Houston,7,2367.56,1562.59,804.97
+2023-05-16,Keyboard,Peripherals,Houston,3,2468.35,1283.54,1184.81
+2023-09-12,Phone,Electronics,Los Angeles,18,861.04,542.46,318.58
+2023-05-15,Laptop,Electronics,Phoenix,12,1488.74,1027.23,461.51
+2023-10-09,Laptop,Electronics,Chicago,11,1608.52,900.77,707.75
+2023-07-05,Monitor,Peripherals,Chicago,1,2909.93,1193.07,1716.86
+2023-02-08,Laptop,Electronics,New York,2,2274.09,1068.82,1205.27
+2023-05-09,Phone,Electronics,Chicago,20,2036.6,855.37,1181.23
+2023-03-29,Laptop,Electronics,Los Angeles,10,2947.02,1974.5,972.52
+2023-06-03,Tablet,Electronics,Los Angeles,7,994.51,666.32,328.19
+2023-11-15,Phone,Electronics,New York,2,1943.86,971.93,971.93
+2023-08-16,Phone,Electronics,New York,11,2055.6,1171.69,883.91
+2023-10-02,Laptop,Electronics,Phoenix,4,2422.94,1041.86,1381.08
+2023-07-27,Printer,Accessories,Los Angeles,20,1094.9,503.65,591.25
+2023-02-13,Headphones,Accessories,Houston,18,1490.06,923.84,566.22
+2023-08-22,Keyboard,Peripherals,Los Angeles,12,1979.39,1128.25,851.14
+2023-03-07,Headphones,Accessories,New York,19,2379.14,951.66,1427.48
+2023-10-21,Tablet,Electronics,Houston,18,2216.66,1418.66,798.0
+2023-02-04,Printer,Accessories,Houston,4,1080.18,604.9,475.28
+2023-12-15,Phone,Electronics,Houston,12,1487.97,848.14,639.83
+2023-03-17,Monitor,Peripherals,New York,5,1520.55,881.92,638.63
+2023-11-17,Monitor,Peripherals,New York,1,1995.02,1177.06,817.96
+2023-01-29,Keyboard,Peripherals,Los Angeles,1,2072.68,1347.24,725.44
+2023-05-11,Monitor,Peripherals,Phoenix,4,2166.39,909.88,1256.51
+2023-10-05,Laptop,Electronics,Los Angeles,13,2066.21,1157.08,909.13
+2023-08-11,Laptop,Electronics,New York,9,519.48,264.93,254.55
+2023-06-17,Laptop,Electronics,Houston,13,1021.64,418.87,602.77
+2023-10-04,Keyboard,Peripherals,Los Angeles,4,2301.84,1404.12,897.72
+2023-08-12,Tablet,Electronics,Houston,14,322.81,200.14,122.67
+2023-02-13,Phone,Electronics,Los Angeles,10,1053.17,452.86,600.31
+2023-11-26,Headphones,Accessories,Phoenix,4,1652.92,1107.46,545.46
+2023-06-21,Laptop,Electronics,New York,16,343.79,185.65,158.14
+2023-10-25,Tablet,Electronics,Chicago,11,2099.74,1217.85,881.89
+2023-08-26,Phone,Electronics,Houston,1,2557.42,1636.75,920.67
+2023-01-19,Laptop,Electronics,New York,19,1163.71,570.22,593.49
+2023-03-10,Headphones,Accessories,Houston,17,1481.72,740.86,740.86
+2023-10-23,Headphones,Accessories,New York,8,323.71,158.62,165.09
+2023-10-15,Printer,Accessories,Houston,13,698.76,300.47,398.29
+2023-07-25,Tablet,Electronics,Houston,12,1693.89,694.49,999.4
+2023-08-29,Monitor,Peripherals,Los Angeles,10,2469.91,1012.66,1457.25
+2023-08-11,Monitor,Peripherals,Los Angeles,9,382.19,202.56,179.63
+2023-01-29,Headphones,Accessories,Chicago,18,1350.38,864.24,486.14
+2023-05-27,Printer,Accessories,New York,8,1086.31,640.92,445.39
+2023-09-23,Tablet,Electronics,Houston,13,1177.62,706.57,471.05
+2023-12-20,Keyboard,Peripherals,Phoenix,7,1825.55,1095.33,730.22
+2023-09-15,Tablet,Electronics,New York,3,586.96,305.22,281.74
+2023-11-23,Tablet,Electronics,New York,17,1834.55,825.55,1009.0
+2023-03-21,Tablet,Electronics,Houston,4,2460.7,1254.96,1205.74
+2023-03-03,Tablet,Electronics,Houston,10,1280.82,525.14,755.68
+2023-02-24,Keyboard,Peripherals,Phoenix,14,777.42,419.81,357.61
+2023-06-01,Headphones,Accessories,Houston,12,2999.2,1529.59,1469.61
+2023-06-09,Headphones,Accessories,Houston,1,2630.5,1525.69,1104.81
+2023-02-28,Headphones,Accessories,Chicago,9,1332.07,532.83,799.24
+2023-07-10,Laptop,Electronics,Phoenix,18,2939.38,1939.99,999.39
+2023-04-20,Phone,Electronics,Los Angeles,2,2571.25,1491.32,1079.93
+2023-07-27,Monitor,Peripherals,Phoenix,13,2201.48,1519.02,682.46
+2023-06-18,Headphones,Accessories,New York,11,1670.31,751.64,918.67
+2023-05-10,Printer,Accessories,Houston,1,2333.55,1376.79,956.76
+2023-03-26,Headphones,Accessories,New York,12,803.02,393.48,409.54
+2023-05-09,Tablet,Electronics,Houston,5,2955.29,1773.17,1182.12
+2023-10-12,Laptop,Electronics,Phoenix,19,1506.18,692.84,813.34
+2023-08-27,Phone,Electronics,New York,7,374.7,251.05,123.65
+2023-11-13,Phone,Electronics,Houston,18,265.53,135.42,130.11
+2023-03-16,Monitor,Peripherals,Phoenix,20,2085.45,1292.98,792.47
+2023-12-11,Laptop,Electronics,Phoenix,4,2251.89,1306.1,945.79
+2023-11-05,Headphones,Accessories,Houston,10,2607.4,1121.18,1486.22
+2023-07-08,Phone,Electronics,Houston,3,1195.04,752.88,442.16
+2023-06-15,Tablet,Electronics,Los Angeles,10,1776.57,1137.0,639.57
+2023-09-12,Monitor,Peripherals,Los Angeles,14,2727.22,1199.98,1527.24
+2023-12-25,Keyboard,Peripherals,Houston,13,1335.44,934.81,400.63
+2023-03-14,Phone,Electronics,New York,2,1407.77,943.21,464.56
+2023-09-29,Printer,Accessories,Chicago,2,579.18,330.13,249.05
+2023-10-08,Tablet,Electronics,Houston,8,2057.92,1296.49,761.43
+2023-01-19,Headphones,Accessories,Houston,10,1299.19,805.5,493.69
+2023-11-18,Printer,Accessories,New York,9,1553.81,1009.98,543.83
+2023-11-23,Monitor,Peripherals,Los Angeles,11,2284.44,1553.42,731.02
+2023-04-15,Printer,Accessories,New York,7,1674.94,820.72,854.22
+2023-02-02,Monitor,Peripherals,Phoenix,9,1033.02,475.19,557.83
+2023-02-09,Laptop,Electronics,Phoenix,20,265.56,135.44,130.12
+2023-09-18,Tablet,Electronics,Los Angeles,4,701.58,442.0,259.58
+2023-11-29,Headphones,Accessories,Los Angeles,15,378.09,185.26,192.83
+2023-09-27,Monitor,Peripherals,Chicago,16,2556.4,1048.12,1508.28
+2023-01-29,Laptop,Electronics,Chicago,8,1125.8,472.84,652.96
+2023-10-20,Keyboard,Peripherals,Chicago,20,2773.54,1913.74,859.8
+2023-07-10,Headphones,Accessories,New York,11,1535.03,951.72,583.31
+2023-06-09,Keyboard,Peripherals,Houston,15,1666.48,1016.55,649.93
+2023-01-17,Laptop,Electronics,Phoenix,19,1337.03,655.14,681.89
+2023-08-14,Keyboard,Peripherals,New York,17,2063.95,866.86,1197.09
+2023-07-05,Phone,Electronics,Los Angeles,9,793.98,436.69,357.29
+2023-12-19,Monitor,Peripherals,Phoenix,2,2838.03,1277.11,1560.92
+2023-03-21,Keyboard,Peripherals,Los Angeles,8,788.76,544.24,244.52
+2023-06-10,Monitor,Peripherals,Phoenix,12,1212.03,521.17,690.86
+2023-09-26,Printer,Accessories,Chicago,11,879.93,571.95,307.98
+2023-10-19,Phone,Electronics,Chicago,7,1879.55,845.8,1033.75
+2023-04-26,Keyboard,Peripherals,Los Angeles,13,2650.75,1776.0,874.75
+2023-02-07,Monitor,Peripherals,Chicago,10,1830.38,970.1,860.28
+2023-06-26,Printer,Accessories,Los Angeles,19,1554.57,901.65,652.92
+2023-01-07,Printer,Accessories,Los Angeles,20,504.75,242.28,262.47
+2023-11-24,Phone,Electronics,Chicago,19,2826.66,1922.13,904.53
+2023-01-08,Phone,Electronics,Houston,3,2136.49,940.06,1196.43
+2023-07-11,Keyboard,Peripherals,Houston,10,1144.55,675.28,469.27
+2023-07-17,Printer,Accessories,New York,17,788.27,512.38,275.89
+2023-05-13,Headphones,Accessories,Chicago,8,2354.39,965.3,1389.09
+2023-07-01,Printer,Accessories,Los Angeles,12,2889.17,1733.5,1155.67
+2023-02-26,Headphones,Accessories,Phoenix,8,823.89,560.25,263.64
+2023-11-18,Printer,Accessories,Houston,10,1104.44,651.62,452.82
+2023-03-22,Phone,Electronics,Chicago,5,1147.93,688.76,459.17
+2023-06-25,Tablet,Electronics,Chicago,8,1661.94,847.59,814.35
+2023-09-11,Laptop,Electronics,Chicago,19,1876.01,787.92,1088.09
+2023-07-09,Phone,Electronics,New York,4,1174.78,622.63,552.15
+2023-09-12,Keyboard,Peripherals,Houston,18,2451.38,1225.69,1225.69
+2023-08-27,Monitor,Peripherals,Los Angeles,11,579.87,318.93,260.94
+2023-07-02,Headphones,Accessories,Phoenix,11,2145.77,1094.34,1051.43
+2023-11-10,Monitor,Peripherals,New York,5,736.35,331.36,404.99
+2023-01-09,Phone,Electronics,New York,1,2581.58,1110.08,1471.5
+2023-08-04,Printer,Accessories,Houston,17,795.28,405.59,389.69
+2023-01-27,Phone,Electronics,Los Angeles,4,1068.06,704.92,363.14
+2023-03-04,Monitor,Peripherals,Los Angeles,1,2002.3,1081.24,921.06
+2023-07-10,Laptop,Electronics,Houston,3,622.29,379.6,242.69
+2023-11-13,Printer,Accessories,Los Angeles,19,1833.02,1264.78,568.24
+2023-10-02,Printer,Accessories,New York,15,1057.99,613.63,444.36
+2023-08-10,Headphones,Accessories,Houston,8,989.48,524.42,465.06
+2023-08-24,Laptop,Electronics,Los Angeles,7,1613.68,984.34,629.34
+2023-11-26,Phone,Electronics,Los Angeles,11,2684.96,1584.13,1100.83
+2023-09-15,Phone,Electronics,Chicago,15,891.64,472.57,419.07
+2023-04-08,Keyboard,Peripherals,Chicago,18,670.93,281.79,389.14
+2023-11-30,Laptop,Electronics,New York,3,2345.96,1431.04,914.92
+2023-12-23,Monitor,Peripherals,New York,16,913.53,575.52,338.01
+2023-04-03,Laptop,Electronics,New York,9,2865.77,1776.78,1088.99
+2023-02-22,Laptop,Electronics,Los Angeles,12,2159.23,863.69,1295.54
+2023-05-30,Monitor,Peripherals,New York,7,1646.43,707.96,938.47
+2023-02-12,Laptop,Electronics,Houston,8,530.48,366.03,164.45
+2023-11-03,Phone,Electronics,Chicago,17,1850.91,1092.04,758.87
+2023-02-17,Monitor,Peripherals,New York,6,429.04,205.94,223.1
+2023-02-15,Tablet,Electronics,New York,3,507.62,274.11,233.51
+2023-11-25,Printer,Accessories,Phoenix,13,2611.83,1697.69,914.14
+2023-12-09,Headphones,Accessories,New York,4,673.86,404.32,269.54
+2023-08-02,Keyboard,Peripherals,Chicago,10,815.67,546.5,269.17
+2023-03-09,Laptop,Electronics,Houston,18,1313.7,696.26,617.44
+2023-12-02,Laptop,Electronics,New York,1,1801.43,882.7,918.73
+2023-02-18,Keyboard,Peripherals,New York,17,1804.63,956.45,848.18
+2023-03-24,Laptop,Electronics,Houston,2,537.26,370.71,166.55
+2023-02-28,Printer,Accessories,New York,6,2363.62,1489.08,874.54
+2023-02-09,Keyboard,Peripherals,Houston,13,2771.03,1219.25,1551.78
+2023-04-24,Phone,Electronics,Houston,14,230.62,110.7,119.92
+2023-07-08,Headphones,Accessories,Chicago,6,1974.22,1105.56,868.66
+2023-12-29,Monitor,Peripherals,Los Angeles,2,667.95,454.21,213.74
+2023-08-23,Headphones,Accessories,Phoenix,6,923.44,581.77,341.67
+2023-06-13,Headphones,Accessories,Houston,4,1848.06,1108.84,739.22
+2023-11-10,Headphones,Accessories,Los Angeles,18,1750.27,717.61,1032.66
+2023-08-04,Phone,Electronics,Chicago,4,1190.37,726.13,464.24
+2023-08-18,Laptop,Electronics,Los Angeles,8,2906.5,1918.29,988.21
+2023-04-04,Printer,Accessories,New York,17,2264.24,1313.26,950.98
+2023-08-12,Phone,Electronics,Chicago,10,2831.79,1953.94,877.85
+2023-10-06,Laptop,Electronics,Phoenix,10,1750.08,1102.55,647.53
+2023-10-16,Printer,Accessories,New York,12,2841.89,1847.23,994.66
+2023-03-04,Monitor,Peripherals,New York,19,724.75,471.09,253.66
+2023-02-04,Tablet,Electronics,Phoenix,10,774.12,410.28,363.84
+2023-09-10,Keyboard,Peripherals,Houston,19,235.22,119.96,115.26
+2023-11-14,Laptop,Electronics,Houston,20,1701.59,1191.11,510.48
+2023-01-09,Laptop,Electronics,Houston,19,1123.43,584.18,539.25
+2023-04-20,Tablet,Electronics,Phoenix,18,1618.16,679.63,938.53
+2023-09-25,Monitor,Peripherals,New York,11,2077.74,1350.53,727.21
+2023-08-28,Headphones,Accessories,Houston,11,719.33,381.24,338.09
+2023-02-06,Phone,Electronics,Chicago,1,1139.22,637.96,501.26
+2023-01-24,Phone,Electronics,Chicago,9,480.18,259.3,220.88
+2023-01-08,Laptop,Electronics,Phoenix,10,1143.13,674.45,468.68
+2023-05-19,Printer,Accessories,Phoenix,9,2165.79,1039.58,1126.21
+2023-07-03,Phone,Electronics,Houston,12,630.68,290.11,340.57
+2023-04-20,Phone,Electronics,Houston,13,2812.92,1659.62,1153.3
+2023-12-19,Printer,Accessories,Chicago,7,1809.1,868.37,940.73
+2023-11-01,Printer,Accessories,Houston,19,626.68,338.41,288.27
+2023-08-16,Phone,Electronics,New York,9,1380.86,593.77,787.09
+2023-01-22,Keyboard,Peripherals,Chicago,2,2245.45,1324.82,920.63
+2023-02-23,Phone,Electronics,New York,7,1973.12,1085.22,887.9
+2023-03-18,Headphones,Accessories,Chicago,11,923.85,637.46,286.39
+2023-12-02,Phone,Electronics,Houston,15,208.95,96.12,112.83
+2023-03-18,Printer,Accessories,Chicago,8,1794.92,915.41,879.51
+2023-01-14,Headphones,Accessories,New York,10,1566.16,1049.33,516.83
+2023-02-05,Headphones,Accessories,New York,2,664.84,299.18,365.66
+2023-02-22,Headphones,Accessories,Houston,1,2131.93,1449.71,682.22
+2023-06-29,Headphones,Accessories,Phoenix,16,2440.91,1635.41,805.5
+2023-01-08,Monitor,Peripherals,New York,13,857.12,462.84,394.28
+2023-08-18,Tablet,Electronics,Phoenix,11,921.25,635.66,285.59
+2023-11-09,Printer,Accessories,Houston,8,1704.18,954.34,749.84
+2023-04-25,Tablet,Electronics,Chicago,1,2792.2,1424.02,1368.18
+2023-03-19,Printer,Accessories,Houston,17,2084.04,1187.9,896.14
+2023-05-05,Phone,Electronics,Phoenix,4,1151.56,771.55,380.01
+2023-11-13,Phone,Electronics,Los Angeles,2,277.01,177.29,99.72
+2023-01-08,Keyboard,Peripherals,Phoenix,11,1555.39,1026.56,528.83
+2023-07-10,Headphones,Accessories,Houston,13,1539.76,662.1,877.66
+2023-10-08,Printer,Accessories,Chicago,4,1995.7,1077.68,918.02
+2023-10-25,Keyboard,Peripherals,Phoenix,3,2414.06,1448.44,965.62
+2023-05-12,Tablet,Electronics,Los Angeles,7,1479.88,754.74,725.14
+2023-07-23,Printer,Accessories,Phoenix,13,2833.54,1756.79,1076.75
+2023-03-06,Monitor,Peripherals,Los Angeles,20,1568.99,972.77,596.22
+2023-11-10,Tablet,Electronics,Chicago,7,2498.75,1524.24,974.51
+2023-12-07,Monitor,Peripherals,Los Angeles,6,1731.7,935.12,796.58
+2023-11-30,Phone,Electronics,Phoenix,6,1628.15,716.39,911.76
+2023-11-04,Tablet,Electronics,Phoenix,8,2635.78,1159.74,1476.04
+2023-05-21,Keyboard,Peripherals,Los Angeles,13,2651.59,1829.6,821.99
+2023-11-22,Monitor,Peripherals,Los Angeles,9,2911.88,1950.96,960.92
+2023-08-15,Laptop,Electronics,Houston,13,942.74,509.08,433.66
+2023-07-08,Printer,Accessories,New York,2,1110.75,566.48,544.27
+2023-01-05,Phone,Electronics,Phoenix,7,1114.12,512.5,601.62
+2023-01-03,Keyboard,Peripherals,Phoenix,1,239.47,160.44,79.03
+2023-09-18,Headphones,Accessories,Chicago,15,1705.94,1074.74,631.2
+2023-05-08,Headphones,Accessories,Phoenix,5,2987.28,1433.89,1553.39
+2023-10-19,Monitor,Peripherals,New York,15,2921.83,1753.1,1168.73
+2023-01-07,Laptop,Electronics,Chicago,9,1031.67,443.62,588.05
+2023-04-23,Headphones,Accessories,Houston,14,2655.64,1141.93,1513.71
+2023-09-12,Phone,Electronics,Los Angeles,16,1854.58,1094.2,760.38
+2023-06-21,Laptop,Electronics,Houston,1,226.59,131.42,95.17
+2023-09-08,Tablet,Electronics,Los Angeles,13,1005.9,502.95,502.95
+2023-04-20,Monitor,Peripherals,New York,13,2404.58,1659.16,745.42
+2023-06-05,Phone,Electronics,Houston,5,948.42,426.79,521.63
+2023-05-07,Printer,Accessories,Los Angeles,10,1447.74,637.01,810.73
+2023-04-06,Laptop,Electronics,Houston,13,1369.88,684.94,684.94
+2023-11-18,Headphones,Accessories,New York,7,2555.91,1482.43,1073.48
+2023-03-15,Monitor,Peripherals,Los Angeles,20,2379.27,1142.05,1237.22
+2023-05-25,Monitor,Peripherals,Los Angeles,15,907.89,517.5,390.39
+2023-10-04,Headphones,Accessories,New York,18,338.45,219.99,118.46
+2023-08-05,Phone,Electronics,Phoenix,7,1834.24,1008.83,825.41
+2023-11-19,Phone,Electronics,Houston,3,1223.37,526.05,697.32
+2023-09-18,Tablet,Electronics,Chicago,20,718.62,438.36,280.26
+2023-05-23,Printer,Accessories,Los Angeles,2,1490.0,789.7,700.3
+2023-05-25,Keyboard,Peripherals,Chicago,18,2601.88,1561.13,1040.75
+2023-04-17,Monitor,Peripherals,Houston,3,2675.32,1123.63,1551.69
+2023-03-03,Monitor,Peripherals,Phoenix,1,2925.32,1989.22,936.1
+2023-12-28,Phone,Electronics,Los Angeles,3,292.45,193.02,99.43
+2023-03-20,Printer,Accessories,Houston,15,1376.64,605.72,770.92
+2023-12-01,Monitor,Peripherals,New York,16,1013.14,618.02,395.12
+2023-05-22,Printer,Accessories,Houston,20,2906.32,1743.79,1162.53
+2023-02-20,Tablet,Electronics,Chicago,11,323.09,203.55,119.54
+2023-08-19,Headphones,Accessories,Houston,11,1638.99,704.77,934.22
+2023-09-24,Monitor,Peripherals,Phoenix,6,2628.44,1629.63,998.81
+2023-03-23,Phone,Electronics,Chicago,19,2940.68,1735.0,1205.68
+2023-06-05,Tablet,Electronics,Los Angeles,10,1710.64,804.0,906.64
+2023-04-17,Phone,Electronics,New York,15,1340.49,898.13,442.36
+2023-11-19,Printer,Accessories,Chicago,14,1899.99,893.0,1006.99
+2023-08-02,Phone,Electronics,Chicago,18,1523.62,1005.59,518.03
+2023-07-22,Headphones,Accessories,Phoenix,15,565.57,237.54,328.03
+2023-06-18,Laptop,Electronics,Chicago,12,2418.35,1209.17,1209.17
+2023-12-24,Laptop,Electronics,Phoenix,13,1672.99,803.04,869.95
+2023-06-05,Laptop,Electronics,Los Angeles,9,879.57,430.99,448.58
+2023-07-22,Laptop,Electronics,Chicago,17,1100.59,495.27,605.32
+2023-11-04,Printer,Accessories,Houston,10,1848.72,942.85,905.87
+2023-09-29,Laptop,Electronics,Houston,16,2579.23,1444.37,1134.86
+2023-11-23,Printer,Accessories,New York,12,1080.86,680.94,399.92
+2023-03-11,Monitor,Peripherals,Houston,7,933.53,532.11,401.42
+2023-01-20,Printer,Accessories,Houston,14,414.54,190.69,223.85
+2023-11-24,Phone,Electronics,New York,19,1203.34,806.24,397.1
+2023-01-10,Printer,Accessories,New York,10,201.57,131.02,70.55
+2023-11-18,Keyboard,Peripherals,Phoenix,20,388.76,237.14,151.62
+2023-08-30,Laptop,Electronics,Los Angeles,19,1261.61,706.5,555.11
+2023-06-28,Laptop,Electronics,New York,4,629.37,258.04,371.33
+2023-04-11,Printer,Accessories,Los Angeles,14,2165.93,1212.92,953.01
+2023-11-03,Headphones,Accessories,New York,16,2177.09,1023.23,1153.86
+2023-02-02,Phone,Electronics,Phoenix,9,1391.06,737.26,653.8
+2023-12-17,Tablet,Electronics,Los Angeles,1,2648.32,1085.81,1562.51
+2023-01-11,Phone,Electronics,Houston,10,2543.52,1144.58,1398.94
+2023-03-20,Phone,Electronics,Los Angeles,18,603.67,319.95,283.72
+2023-08-15,Monitor,Peripherals,Houston,13,1251.76,776.09,475.67
+2023-12-10,Keyboard,Peripherals,Phoenix,7,2512.25,1231.0,1281.25
+2023-12-19,Tablet,Electronics,Chicago,20,1698.6,917.24,781.36
+2023-10-11,Laptop,Electronics,Los Angeles,14,2486.05,1690.51,795.54
+2023-05-29,Headphones,Accessories,Chicago,5,1583.84,871.11,712.73
+2023-08-28,Tablet,Electronics,Houston,4,1900.05,1007.03,893.02
+2023-07-31,Tablet,Electronics,New York,18,2540.35,1371.79,1168.56
+2023-08-21,Keyboard,Peripherals,Houston,8,255.48,127.74,127.74
+2023-01-15,Monitor,Peripherals,Chicago,7,743.44,394.02,349.42
+2023-05-12,Monitor,Peripherals,Houston,3,1959.04,1155.83,803.21
+2023-07-14,Headphones,Accessories,Houston,20,509.28,351.4,157.88
+2023-03-22,Printer,Accessories,New York,6,338.4,155.66,182.74
+2023-04-22,Keyboard,Peripherals,Houston,15,1661.08,1129.53,531.55
+2023-01-07,Keyboard,Peripherals,Chicago,17,630.39,277.37,353.02
+2023-10-30,Tablet,Electronics,New York,16,1026.59,574.89,451.7
+2023-02-20,Tablet,Electronics,Chicago,15,509.39,239.41,269.98
+2023-09-24,Monitor,Peripherals,Phoenix,3,2190.8,1161.12,1029.68
+2023-02-03,Monitor,Peripherals,Chicago,19,1867.21,1157.67,709.54
+2023-10-03,Laptop,Electronics,New York,11,353.88,233.56,120.32
+2023-12-05,Monitor,Peripherals,New York,5,2229.13,1047.69,1181.44
+2023-01-22,Headphones,Accessories,New York,9,1538.46,861.54,676.92
+2023-04-14,Tablet,Electronics,New York,16,2265.77,996.94,1268.83
+2023-06-13,Laptop,Electronics,Houston,9,887.49,550.24,337.25
+2023-10-24,Monitor,Peripherals,Phoenix,4,1684.56,926.51,758.05
+2023-05-23,Keyboard,Peripherals,New York,17,2443.66,1026.34,1417.32
+2023-07-28,Phone,Electronics,Chicago,17,2618.64,1492.62,1126.02
+2023-11-29,Laptop,Electronics,Phoenix,19,1763.19,863.96,899.23
+2023-04-21,Phone,Electronics,Chicago,16,2085.3,1334.59,750.71
+2023-10-03,Phone,Electronics,Phoenix,5,1876.11,825.49,1050.62
+2023-08-31,Laptop,Electronics,Houston,4,2642.73,1664.92,977.81
+2023-12-27,Tablet,Electronics,Los Angeles,10,602.93,403.96,198.97
+2023-05-03,Headphones,Accessories,Houston,3,1776.25,799.31,976.94
+2023-05-26,Phone,Electronics,Phoenix,15,604.47,284.1,320.37
+2023-11-05,Laptop,Electronics,Los Angeles,6,750.6,420.34,330.26
+2023-03-12,Printer,Accessories,New York,10,263.7,147.67,116.03
+2023-12-30,Laptop,Electronics,Chicago,16,1495.52,987.04,508.48
+2023-04-03,Headphones,Accessories,Los Angeles,1,960.31,508.96,451.35
+2023-10-15,Tablet,Electronics,Los Angeles,4,1433.45,817.07,616.38
+2023-05-17,Phone,Electronics,New York,12,2439.72,1097.87,1341.85
+2023-08-27,Printer,Accessories,Phoenix,9,601.52,348.88,252.64
+2023-06-16,Keyboard,Peripherals,Phoenix,15,2803.84,1401.92,1401.92
+2023-11-11,Laptop,Electronics,Chicago,19,2846.15,1166.92,1679.23
+2023-07-17,Phone,Electronics,Chicago,5,1442.42,620.24,822.18
+2023-09-09,Monitor,Peripherals,Phoenix,1,1671.89,1019.85,652.04
+2023-03-12,Keyboard,Peripherals,Houston,16,705.74,444.62,261.12
+2023-06-08,Printer,Accessories,Houston,11,2462.76,1526.91,935.85
+2023-08-28,Headphones,Accessories,Phoenix,2,1067.32,704.43,362.89
+2023-12-12,Keyboard,Peripherals,Phoenix,14,815.62,513.84,301.78
+2023-05-07,Keyboard,Peripherals,Houston,17,2727.15,1472.66,1254.49
+2023-10-24,Printer,Accessories,New York,6,2344.0,1359.52,984.48
+2023-04-24,Printer,Accessories,Chicago,6,1427.19,642.24,784.95
+2023-09-02,Printer,Accessories,Phoenix,7,1099.4,582.68,516.72
+2023-01-21,Headphones,Accessories,Houston,18,1738.67,695.47,1043.2
+2023-01-27,Tablet,Electronics,New York,12,2950.4,1327.68,1622.72
+2023-11-04,Headphones,Accessories,Phoenix,1,666.36,459.79,206.57
+2023-04-28,Headphones,Accessories,Los Angeles,10,2971.79,1337.31,1634.48
+2023-01-16,Keyboard,Peripherals,New York,18,878.51,562.25,316.26
+2023-04-13,Printer,Accessories,Los Angeles,16,430.64,228.24,202.4
+2023-03-27,Monitor,Peripherals,Phoenix,19,1487.04,743.52,743.52
+2023-02-01,Keyboard,Peripherals,Houston,13,2394.49,1221.19,1173.3
+2023-12-16,Monitor,Peripherals,Phoenix,3,396.93,234.19,162.74
+2023-09-10,Laptop,Electronics,Phoenix,6,760.14,516.9,243.24
+2023-06-07,Keyboard,Peripherals,Los Angeles,6,1885.18,1319.63,565.55
+2023-05-01,Monitor,Peripherals,Chicago,3,1768.4,901.88,866.52
+2023-09-29,Printer,Accessories,Houston,13,1875.19,975.1,900.09
+2023-09-03,Monitor,Peripherals,Houston,15,899.6,359.84,539.76
+2023-02-12,Headphones,Accessories,New York,13,2874.41,2012.09,862.32
+2023-05-22,Printer,Accessories,Phoenix,9,1604.61,1075.09,529.52
+2023-10-08,Tablet,Electronics,New York,4,2261.04,1356.62,904.42
+2023-04-21,Printer,Accessories,New York,9,768.1,522.31,245.79
+2023-12-24,Monitor,Peripherals,Los Angeles,7,2805.1,1430.6,1374.5
+2023-12-25,Headphones,Accessories,New York,1,583.56,350.14,233.42
+2023-06-15,Keyboard,Peripherals,Houston,1,2938.4,1733.66,1204.74
+2023-09-11,Printer,Accessories,Houston,14,996.26,567.87,428.39
+2023-10-05,Keyboard,Peripherals,Phoenix,7,1045.74,512.41,533.33
+2023-10-17,Keyboard,Peripherals,Phoenix,7,1526.36,641.07,885.29
+2023-12-09,Laptop,Electronics,Phoenix,1,1406.92,689.39,717.53
+2023-02-18,Keyboard,Peripherals,Chicago,17,2046.06,1309.48,736.58
+2023-06-14,Monitor,Peripherals,Chicago,14,409.54,249.82,159.72
+2023-11-26,Monitor,Peripherals,Houston,10,1766.32,971.48,794.84
+2023-03-31,Keyboard,Peripherals,Houston,13,1625.47,959.03,666.44
+2023-02-19,Monitor,Peripherals,Phoenix,17,2588.73,1397.91,1190.82
+2023-06-03,Keyboard,Peripherals,Chicago,6,2872.17,1177.59,1694.58
+2023-11-04,Monitor,Peripherals,Los Angeles,9,927.41,528.62,398.79
+2023-02-12,Keyboard,Peripherals,Phoenix,3,2884.69,1701.97,1182.72
+2023-12-09,Printer,Accessories,New York,11,2979.69,1817.61,1162.08
+2023-05-10,Headphones,Accessories,New York,9,1453.16,988.15,465.01
+2023-11-28,Keyboard,Peripherals,Los Angeles,2,1122.88,527.75,595.13
+2023-12-25,Keyboard,Peripherals,Houston,8,2785.77,1810.75,975.02
+2023-02-28,Tablet,Electronics,Los Angeles,3,1368.25,903.05,465.2
+2023-01-20,Monitor,Peripherals,Houston,12,1324.99,596.25,728.74
+2023-01-02,Printer,Accessories,Los Angeles,14,792.09,324.76,467.33
+2023-02-17,Tablet,Electronics,Houston,8,1164.24,570.48,593.76
+2023-05-03,Phone,Electronics,Phoenix,5,1217.96,657.7,560.26
+2023-05-07,Phone,Electronics,Houston,8,1255.74,539.97,715.77
+2023-04-27,Tablet,Electronics,Los Angeles,10,1641.66,870.08,771.58
+2023-02-16,Laptop,Electronics,Phoenix,9,1494.67,971.54,523.13
+2023-03-06,Monitor,Peripherals,Phoenix,12,1721.55,723.05,998.5
+2023-07-15,Printer,Accessories,Los Angeles,9,553.03,270.98,282.05
+2023-04-18,Headphones,Accessories,New York,16,1360.72,762.0,598.72
+2023-02-27,Keyboard,Peripherals,Houston,2,2264.35,1585.04,679.31
+2023-07-22,Headphones,Accessories,Houston,18,337.22,222.57,114.65
+2023-01-23,Printer,Accessories,Houston,6,2748.54,1539.18,1209.36
+2023-11-02,Tablet,Electronics,Houston,3,2079.23,873.28,1205.95
+2023-01-22,Monitor,Peripherals,New York,14,2391.19,1243.42,1147.77
+2023-10-28,Phone,Electronics,Chicago,3,1560.74,717.94,842.8
+2023-06-06,Laptop,Electronics,Houston,2,2597.26,1636.27,960.99
+2023-05-14,Headphones,Accessories,Phoenix,12,1094.65,634.9,459.75
+2023-01-02,Keyboard,Peripherals,Phoenix,12,2987.69,1404.21,1583.48
+2023-12-16,Tablet,Electronics,Houston,9,2812.42,1856.2,956.22
+2023-03-11,Tablet,Electronics,Los Angeles,17,2949.17,2005.44,943.73
+2023-12-08,Printer,Accessories,Houston,6,1997.63,1358.39,639.24
+2023-09-15,Laptop,Electronics,Houston,7,2463.35,1527.28,936.07
+2023-01-16,Monitor,Peripherals,Chicago,4,1374.16,948.17,425.99
+2023-05-27,Tablet,Electronics,Chicago,7,2178.89,1350.91,827.98
+2023-04-29,Monitor,Peripherals,New York,19,2495.36,1347.49,1147.87
+2023-05-11,Headphones,Accessories,Los Angeles,17,2365.78,993.63,1372.15
+2023-06-18,Tablet,Electronics,New York,15,2099.62,1154.79,944.83
+2023-09-20,Printer,Accessories,Phoenix,14,2488.81,1642.61,846.2
+2023-03-05,Headphones,Accessories,New York,10,507.89,248.87,259.02
+2023-01-13,Laptop,Electronics,New York,14,2730.05,1665.33,1064.72
+2023-11-17,Phone,Electronics,Los Angeles,17,2182.6,1156.78,1025.82
+2023-01-15,Laptop,Electronics,Houston,14,523.97,303.9,220.07
+2023-01-23,Monitor,Peripherals,Phoenix,7,1717.41,1185.01,532.4
+2023-09-23,Keyboard,Peripherals,New York,6,2891.69,1561.51,1330.18
+2023-05-26,Headphones,Accessories,Chicago,10,1652.46,660.98,991.48
+2023-07-11,Headphones,Accessories,Houston,18,2998.78,2069.16,929.62
+2023-05-11,Laptop,Electronics,Houston,6,482.57,236.46,246.11
+2023-06-29,Headphones,Accessories,Los Angeles,13,1342.85,644.57,698.28
+2023-10-21,Monitor,Peripherals,Los Angeles,10,1302.49,898.72,403.77
+2023-07-12,Printer,Accessories,Chicago,8,1907.44,991.87,915.57
+2023-08-07,Printer,Accessories,Chicago,17,1834.27,807.08,1027.19
+2023-10-23,Laptop,Electronics,Chicago,5,1736.1,694.44,1041.66
+2023-08-03,Monitor,Peripherals,New York,4,1359.3,706.84,652.46
+2023-06-04,Laptop,Electronics,Chicago,8,1267.04,861.59,405.45
+2023-01-11,Monitor,Peripherals,New York,16,1474.0,722.26,751.74
+2023-11-06,Monitor,Peripherals,New York,6,2609.59,1565.75,1043.84
+2023-12-28,Phone,Electronics,Chicago,17,1946.86,1070.77,876.09
+2023-01-14,Printer,Accessories,Los Angeles,14,2296.91,1125.49,1171.42
+2023-06-18,Tablet,Electronics,Houston,4,2590.63,1606.19,984.44
+2023-09-11,Keyboard,Peripherals,Phoenix,8,1554.67,777.34,777.34
+2023-08-12,Monitor,Peripherals,Houston,4,254.19,101.68,152.51
+2023-08-01,Laptop,Electronics,Houston,9,1470.81,647.16,823.65
+2023-04-27,Monitor,Peripherals,Chicago,18,432.02,190.09,241.93
+2023-02-07,Phone,Electronics,Los Angeles,15,364.67,193.28,171.39
+2023-07-12,Printer,Accessories,New York,6,1341.28,912.07,429.21
+2023-04-16,Headphones,Accessories,New York,4,2512.56,1331.66,1180.9
+2023-11-20,Keyboard,Peripherals,Chicago,19,563.61,326.89,236.72
+2023-01-06,Monitor,Peripherals,Chicago,20,2788.26,1756.6,1031.66
+2023-06-04,Phone,Electronics,New York,10,849.5,552.18,297.32
+2023-04-03,Printer,Accessories,Los Angeles,10,1605.38,786.64,818.74
+2023-08-13,Phone,Electronics,Houston,6,1303.82,795.33,508.49
+2023-06-21,Keyboard,Peripherals,Houston,2,1819.77,800.7,1019.07
+2023-04-13,Headphones,Accessories,New York,13,1764.12,970.27,793.85
+2023-12-29,Phone,Electronics,Houston,13,2268.69,1383.9,884.79
+2023-05-09,Keyboard,Peripherals,Houston,19,847.57,474.64,372.93
+2023-07-03,Phone,Electronics,Chicago,12,764.04,366.74,397.3
+2023-05-14,Monitor,Peripherals,New York,7,606.22,254.61,351.61
+2023-05-28,Phone,Electronics,Houston,18,1857.32,1151.54,705.78
+2023-12-02,Keyboard,Peripherals,Los Angeles,15,2470.49,1556.41,914.08
+2023-03-28,Laptop,Electronics,Los Angeles,16,1226.3,527.31,698.99
+2023-03-11,Keyboard,Peripherals,Phoenix,3,1803.5,739.43,1064.07
+2023-10-01,Phone,Electronics,Los Angeles,14,601.88,294.92,306.96
+2023-02-13,Laptop,Electronics,Houston,16,858.91,515.35,343.56
+2023-10-01,Keyboard,Peripherals,Los Angeles,6,1462.48,745.86,716.62
+2023-05-05,Monitor,Peripherals,Los Angeles,15,823.78,527.22,296.56
+2023-11-15,Laptop,Electronics,Los Angeles,1,2736.71,1559.92,1176.79
+2023-05-27,Monitor,Peripherals,New York,15,2029.27,1116.1,913.17
+2023-01-31,Tablet,Electronics,Phoenix,14,1563.44,797.35,766.09
+2023-08-17,Tablet,Electronics,Chicago,12,488.74,288.36,200.38
+2023-10-07,Monitor,Peripherals,Phoenix,6,1834.44,1229.07,605.37
+2023-01-16,Printer,Accessories,Houston,3,1960.02,1117.21,842.81
+2023-02-28,Keyboard,Peripherals,Chicago,3,2542.79,1067.97,1474.82
+2023-06-11,Laptop,Electronics,Los Angeles,14,615.33,276.9,338.43
+2023-08-29,Tablet,Electronics,New York,1,2325.94,1000.15,1325.79
+2023-05-19,Tablet,Electronics,Los Angeles,6,1542.69,663.36,879.33
+2023-02-16,Tablet,Electronics,Chicago,2,2223.09,1422.78,800.31
+2023-12-25,Phone,Electronics,Los Angeles,14,1560.23,858.13,702.1
+2023-04-01,Keyboard,Peripherals,Houston,9,2426.18,1261.61,1164.57
+2023-10-31,Laptop,Electronics,Phoenix,1,1754.75,719.45,1035.3
+2023-06-26,Monitor,Peripherals,New York,9,1237.94,557.07,680.87
+2023-09-01,Laptop,Electronics,Chicago,10,2636.52,1318.26,1318.26
+2023-03-18,Phone,Electronics,Phoenix,15,1166.41,489.89,676.52
+2023-03-22,Laptop,Electronics,Houston,17,2587.83,1138.65,1449.18
+2023-08-21,Laptop,Electronics,Chicago,10,857.96,480.46,377.5
+2023-09-19,Headphones,Accessories,New York,17,2192.24,1205.73,986.51
+2023-09-29,Printer,Accessories,Phoenix,5,2638.64,1161.0,1477.64
+2023-01-31,Laptop,Electronics,Los Angeles,5,2297.56,1148.78,1148.78
+2023-10-07,Phone,Electronics,Houston,13,2186.78,918.45,1268.33
+2023-02-02,Headphones,Accessories,Chicago,10,1196.31,753.68,442.63
+2023-10-16,Tablet,Electronics,Chicago,17,840.99,395.27,445.72
+2023-09-17,Laptop,Electronics,Chicago,2,2992.4,1316.66,1675.74
+2023-12-22,Laptop,Electronics,Los Angeles,16,650.95,292.93,358.02
+2023-03-07,Printer,Accessories,Chicago,14,1299.78,571.9,727.88
+2023-05-17,Monitor,Peripherals,Houston,5,2061.19,824.48,1236.71
+2023-05-21,Phone,Electronics,New York,4,521.06,260.53,260.53
+2023-01-28,Printer,Accessories,Phoenix,5,2240.62,1142.72,1097.9
+2023-03-16,Tablet,Electronics,New York,11,931.58,521.68,409.9
+2023-01-10,Keyboard,Peripherals,Los Angeles,13,2695.33,1132.04,1563.29
+2023-11-18,Tablet,Electronics,Los Angeles,5,542.78,374.52,168.26
+2023-10-23,Printer,Accessories,Houston,11,2832.11,1416.06,1416.06
+2023-08-25,Tablet,Electronics,New York,19,2547.45,1248.25,1299.2
+2023-08-31,Headphones,Accessories,Chicago,1,2119.06,1462.15,656.91
+2023-10-29,Keyboard,Peripherals,New York,7,2419.51,1548.49,871.02
+2023-08-13,Monitor,Peripherals,Los Angeles,8,1158.47,671.91,486.56
+2023-02-08,Tablet,Electronics,Phoenix,14,1798.46,1186.98,611.48
+2023-03-09,Headphones,Accessories,Los Angeles,13,2405.7,1419.36,986.34
+2023-06-13,Headphones,Accessories,Chicago,11,1311.5,800.01,511.49
+2023-05-28,Tablet,Electronics,Los Angeles,18,1249.74,812.33,437.41
+2023-11-16,Keyboard,Peripherals,Los Angeles,14,1124.88,573.69,551.19
+2023-08-18,Printer,Accessories,Los Angeles,15,327.04,206.04,121.0
+2023-11-24,Printer,Accessories,Phoenix,10,804.86,450.72,354.14
+2023-03-18,Monitor,Peripherals,New York,16,756.88,454.13,302.75
+2023-01-13,Headphones,Accessories,Los Angeles,8,254.12,132.14,121.98
+2023-06-06,Headphones,Accessories,Chicago,3,2739.91,1643.95,1095.96
+2023-12-12,Tablet,Electronics,Phoenix,12,1473.72,648.44,825.28
+2023-05-04,Laptop,Electronics,Phoenix,8,923.33,554.0,369.33
+2023-03-28,Keyboard,Peripherals,New York,12,1549.43,1022.62,526.81
+2023-01-30,Monitor,Peripherals,Los Angeles,12,2197.25,1186.52,1010.73
+2023-05-06,Laptop,Electronics,Phoenix,8,2535.24,1622.55,912.69
+2023-07-06,Headphones,Accessories,New York,3,1755.9,860.39,895.51
+2023-10-08,Keyboard,Peripherals,Chicago,4,1677.74,738.21,939.53
+2023-06-09,Printer,Accessories,Chicago,5,2620.46,1808.12,812.34
+2023-06-24,Phone,Electronics,New York,16,1782.37,784.24,998.13
+2023-07-29,Keyboard,Peripherals,Los Angeles,5,1170.4,491.57,678.83
+2023-01-25,Printer,Accessories,Phoenix,18,2318.65,1298.44,1020.21
+2023-09-29,Keyboard,Peripherals,Phoenix,4,364.3,174.86,189.44
+2023-12-28,Monitor,Peripherals,Houston,3,2647.46,1641.43,1006.03
+2023-12-08,Tablet,Electronics,Chicago,3,1848.73,1035.29,813.44
+2023-08-07,Laptop,Electronics,Phoenix,12,2931.67,1172.67,1759.0
+2023-07-22,Printer,Accessories,Phoenix,8,1175.93,776.11,399.82
+2023-08-27,Headphones,Accessories,New York,11,2155.93,1422.91,733.02
+2023-01-10,Phone,Electronics,Chicago,5,511.41,209.68,301.73
+2023-01-14,Printer,Accessories,Phoenix,5,2823.69,1383.61,1440.08
+2023-06-13,Headphones,Accessories,Chicago,12,1111.38,555.69,555.69
+2023-05-20,Printer,Accessories,Chicago,5,2089.57,919.41,1170.16
+2023-08-16,Headphones,Accessories,Phoenix,18,1224.19,844.69,379.5
+2023-09-06,Printer,Accessories,Houston,12,1339.72,803.83,535.89
+2023-03-07,Monitor,Peripherals,Chicago,4,1736.08,1180.53,555.55
+2023-09-25,Keyboard,Peripherals,Phoenix,8,2783.58,1670.15,1113.43
+2023-03-09,Headphones,Accessories,Chicago,13,383.99,215.03,168.96
+2023-11-18,Headphones,Accessories,New York,11,779.12,475.26,303.86
+2023-03-21,Monitor,Peripherals,Los Angeles,3,603.53,337.98,265.55
+2023-10-11,Tablet,Electronics,Los Angeles,2,1330.46,665.23,665.23
+2023-07-10,Printer,Accessories,New York,12,1261.8,820.17,441.63
+2023-10-20,Tablet,Electronics,Los Angeles,12,1592.56,955.54,637.02
+2023-01-09,Tablet,Electronics,Chicago,12,813.67,512.61,301.06
+2023-06-06,Headphones,Accessories,Los Angeles,10,645.43,335.62,309.81
+2023-11-14,Tablet,Electronics,Los Angeles,17,1472.92,898.48,574.44
+2023-02-01,Laptop,Electronics,Los Angeles,16,262.99,184.09,78.9
+2023-01-05,Printer,Accessories,Phoenix,6,2312.18,1248.58,1063.6
+2023-08-02,Printer,Accessories,Los Angeles,11,2707.84,1245.61,1462.23
+2023-05-16,Headphones,Accessories,New York,6,318.8,184.9,133.9
+2023-09-21,Keyboard,Peripherals,Phoenix,1,1267.28,658.99,608.29
+2023-07-08,Printer,Accessories,Chicago,1,1540.59,924.35,616.24
+2023-12-07,Headphones,Accessories,Los Angeles,14,2358.85,1250.19,1108.66
+2023-09-17,Headphones,Accessories,Chicago,20,2841.16,1250.11,1591.05
+2023-05-28,Headphones,Accessories,Phoenix,17,1470.12,867.37,602.75
+2023-02-17,Monitor,Peripherals,Houston,14,1560.18,624.07,936.11
+2023-01-10,Laptop,Electronics,Phoenix,17,2494.94,1322.32,1172.62
+2023-07-05,Tablet,Electronics,New York,9,1112.33,545.04,567.29
+2023-09-12,Keyboard,Peripherals,New York,14,2491.27,1245.63,1245.63
+2023-11-01,Laptop,Electronics,Chicago,5,1444.33,808.82,635.51
+2023-10-31,Phone,Electronics,Chicago,18,2127.75,1361.76,765.99
+2023-06-25,Monitor,Peripherals,Phoenix,12,655.11,347.21,307.9
+2023-12-20,Phone,Electronics,New York,12,2862.56,1688.91,1173.65
+2023-06-18,Monitor,Peripherals,New York,19,2367.51,1491.53,875.98
+2023-02-17,Keyboard,Peripherals,New York,7,2902.52,1625.41,1277.11
+2023-03-10,Printer,Accessories,Chicago,18,1670.27,801.73,868.54
+2023-08-13,Phone,Electronics,Houston,19,1079.51,669.3,410.21
+2023-01-02,Printer,Accessories,Los Angeles,10,726.18,464.76,261.42
+2023-11-12,Tablet,Electronics,Chicago,8,1952.36,839.51,1112.85
+2023-02-04,Tablet,Electronics,Los Angeles,7,2939.44,1381.54,1557.9
+2023-06-23,Laptop,Electronics,New York,19,1951.31,1229.33,721.98
+2023-05-14,Headphones,Accessories,Phoenix,9,1304.23,678.2,626.03
+2023-10-08,Phone,Electronics,New York,6,1967.93,806.85,1161.08
+2023-02-05,Keyboard,Peripherals,Chicago,5,1690.5,1149.54,540.96
+2023-01-25,Monitor,Peripherals,Los Angeles,13,2137.53,1132.89,1004.64
+2023-12-10,Laptop,Electronics,Phoenix,17,2083.66,1020.99,1062.67
+2023-02-18,Headphones,Accessories,Phoenix,12,2164.03,1233.5,930.53
+2023-06-12,Printer,Accessories,New York,9,2481.51,1315.2,1166.31
+2023-11-07,Monitor,Peripherals,Phoenix,15,1679.76,1125.44,554.32
+2023-09-12,Headphones,Accessories,New York,12,1220.04,524.62,695.42
+2023-09-25,Printer,Accessories,Phoenix,6,915.7,631.83,283.87
+2023-02-03,Printer,Accessories,Los Angeles,13,1646.26,1004.22,642.04
+2023-05-15,Headphones,Accessories,Houston,16,2524.96,1060.48,1464.48
+2023-04-27,Headphones,Accessories,New York,16,414.12,244.33,169.79
+2023-03-14,Laptop,Electronics,Los Angeles,20,1565.89,1033.49,532.4
+2023-08-01,Laptop,Electronics,New York,2,2904.62,1800.86,1103.76
+2023-03-15,Printer,Accessories,Phoenix,6,1217.9,840.35,377.55
+2023-10-11,Headphones,Accessories,Los Angeles,3,1833.38,1228.36,605.02
+2023-03-13,Phone,Electronics,Houston,13,2389.4,1672.58,716.82
+2023-05-25,Phone,Electronics,Houston,2,327.54,183.42,144.12
+2023-08-12,Laptop,Electronics,Chicago,16,398.15,266.76,131.39
+2023-12-15,Keyboard,Peripherals,New York,6,2449.46,1273.72,1175.74
+2023-08-31,Monitor,Peripherals,Los Angeles,2,418.37,205.0,213.37
+2023-06-02,Printer,Accessories,New York,8,788.8,465.39,323.41
+2023-06-21,Laptop,Electronics,New York,4,2490.39,1593.85,896.54
+2023-09-03,Monitor,Peripherals,New York,6,2464.79,1552.82,911.97
+2023-03-09,Phone,Electronics,New York,18,1761.74,1109.9,651.84
+2023-01-27,Laptop,Electronics,Phoenix,19,2164.4,1060.56,1103.84
+2023-12-14,Laptop,Electronics,Chicago,13,901.24,612.84,288.4
+2023-11-09,Tablet,Electronics,Phoenix,11,269.51,132.06,137.45
+2023-03-12,Headphones,Accessories,New York,9,2887.13,1241.47,1645.66
+2023-05-08,Printer,Accessories,Houston,3,2941.2,1764.72,1176.48
+2023-11-06,Laptop,Electronics,New York,8,1474.52,840.48,634.04
+2023-12-31,Monitor,Peripherals,Chicago,10,2371.11,1019.58,1351.53
+2023-08-09,Printer,Accessories,Los Angeles,9,593.74,332.49,261.25
+2023-08-08,Phone,Electronics,Phoenix,11,800.81,512.52,288.29
+2023-10-09,Monitor,Peripherals,Phoenix,12,1914.57,804.12,1110.45
+2023-10-11,Monitor,Peripherals,Chicago,19,2411.51,1446.91,964.6
+2023-03-26,Printer,Accessories,New York,14,1228.91,737.35,491.56
+2023-08-12,Printer,Accessories,Phoenix,5,1784.55,1088.58,695.97
+2023-05-30,Tablet,Electronics,New York,1,587.8,258.63,329.17
+2023-03-02,Laptop,Electronics,Phoenix,1,1027.88,596.17,431.71
+2023-11-14,Printer,Accessories,Houston,14,607.52,279.46,328.06
+2023-08-25,Headphones,Accessories,Chicago,9,1513.33,1029.06,484.27
+2023-07-03,Tablet,Electronics,Los Angeles,17,1640.45,836.63,803.82
+2023-06-21,Printer,Accessories,Chicago,18,1883.02,1110.98,772.04
+2023-11-18,Laptop,Electronics,Houston,10,1606.8,706.99,899.81
+2023-03-19,Laptop,Electronics,Houston,5,376.05,165.46,210.59
+2023-03-03,Tablet,Electronics,Phoenix,16,2044.95,1002.03,1042.92
+2023-06-02,Monitor,Peripherals,Phoenix,2,1097.33,702.29,395.04
+2023-03-25,Printer,Accessories,New York,18,2286.21,1143.11,1143.11
+2023-03-24,Headphones,Accessories,New York,8,2918.27,1371.59,1546.68
+2023-11-06,Keyboard,Peripherals,New York,1,2713.81,1166.94,1546.87
+2023-05-11,Printer,Accessories,Los Angeles,9,1972.12,1341.04,631.08
+2023-05-04,Keyboard,Peripherals,Houston,1,413.64,273.0,140.64
+2023-05-16,Printer,Accessories,Phoenix,19,1588.04,952.82,635.22
+2023-07-01,Monitor,Peripherals,New York,5,544.6,223.29,321.31
+2023-03-03,Laptop,Electronics,Houston,19,1394.73,864.73,530.0
+2023-05-22,Headphones,Accessories,Chicago,4,450.65,310.95,139.7
+2023-08-22,Phone,Electronics,New York,1,1720.2,756.89,963.31
+2023-10-14,Tablet,Electronics,Phoenix,10,1579.59,1074.12,505.47
+2023-02-26,Monitor,Peripherals,Chicago,4,338.64,209.96,128.68
+2023-08-31,Keyboard,Peripherals,New York,7,481.07,322.32,158.75
+2023-03-28,Keyboard,Peripherals,Chicago,16,2857.53,1428.77,1428.77
+2023-04-12,Monitor,Peripherals,Chicago,4,1811.22,796.94,1014.28
+2023-03-27,Laptop,Electronics,Chicago,4,2088.22,856.17,1232.05
+2023-08-05,Laptop,Electronics,Phoenix,13,1406.36,843.82,562.54
+2023-04-02,Headphones,Accessories,New York,13,1929.47,1099.8,829.67
+2023-03-10,Monitor,Peripherals,Chicago,15,2798.36,1567.08,1231.28
+2023-01-07,Keyboard,Peripherals,New York,5,906.46,426.04,480.42
+2023-04-12,Laptop,Electronics,New York,12,1653.02,1074.46,578.56
+2023-08-03,Phone,Electronics,Houston,16,1993.46,996.73,996.73
+2023-10-27,Phone,Electronics,Chicago,13,2552.08,1071.87,1480.21
+2023-10-12,Phone,Electronics,Phoenix,11,309.07,188.53,120.54
+2023-11-21,Laptop,Electronics,New York,19,1108.49,620.75,487.74
+2023-03-07,Printer,Accessories,Los Angeles,11,2732.77,1639.66,1093.11
+2023-11-25,Phone,Electronics,Los Angeles,20,1190.79,678.75,512.04
+2023-10-22,Printer,Accessories,Chicago,9,350.22,234.65,115.57
+2023-05-09,Tablet,Electronics,New York,11,2134.44,960.5,1173.94
+2023-09-19,Keyboard,Peripherals,Houston,3,2069.16,1365.65,703.51
+2023-08-15,Laptop,Electronics,New York,10,2984.29,1223.56,1760.73
+2023-12-28,Tablet,Electronics,New York,2,1097.21,680.27,416.94
+2023-05-18,Printer,Accessories,Los Angeles,18,623.3,367.75,255.55
+2023-08-14,Printer,Accessories,Houston,18,1363.53,654.49,709.04
+2023-03-01,Keyboard,Peripherals,New York,20,2797.73,1650.66,1147.07
+2023-06-21,Tablet,Electronics,Houston,8,1283.35,770.01,513.34
+2023-02-15,Phone,Electronics,Houston,15,772.98,471.52,301.46
+2023-07-07,Keyboard,Peripherals,New York,11,304.61,179.72,124.89
+2023-04-07,Monitor,Peripherals,New York,20,1306.14,548.58,757.56
+2023-09-20,Monitor,Peripherals,Chicago,18,993.57,516.66,476.91
+2023-01-17,Headphones,Accessories,Houston,15,2589.74,1113.59,1476.15
+2023-07-20,Tablet,Electronics,Phoenix,2,1851.5,1240.51,610.99
+2023-11-10,Laptop,Electronics,Phoenix,3,2702.5,1351.25,1351.25
+2023-10-12,Printer,Accessories,Los Angeles,14,2172.36,1325.14,847.22
+2023-07-30,Printer,Accessories,Phoenix,9,2081.76,978.43,1103.33
+2023-01-09,Monitor,Peripherals,Phoenix,8,621.29,329.28,292.01
+2023-04-30,Printer,Accessories,Phoenix,10,311.96,152.86,159.1
+2023-05-28,Laptop,Electronics,Los Angeles,5,2875.46,1869.05,1006.41
+2023-01-25,Monitor,Peripherals,New York,19,1493.01,656.92,836.09
+2023-11-26,Tablet,Electronics,Chicago,2,1371.74,617.28,754.46
+2023-08-08,Headphones,Accessories,Houston,19,1794.59,1238.27,556.32
+2023-03-14,Tablet,Electronics,Phoenix,9,2047.34,839.41,1207.93
+2023-06-15,Tablet,Electronics,Chicago,17,508.57,300.06,208.51
+2023-05-28,Phone,Electronics,New York,17,1376.94,812.39,564.55
+2023-10-16,Phone,Electronics,Los Angeles,13,1612.19,1047.92,564.27
+2023-04-09,Monitor,Peripherals,Phoenix,10,239.19,121.99,117.2
+2023-10-02,Phone,Electronics,New York,4,2952.44,1564.79,1387.65
+2023-01-03,Phone,Electronics,New York,11,2193.63,965.2,1228.43
+2023-09-15,Tablet,Electronics,Los Angeles,8,2785.34,1671.2,1114.14
+2023-11-24,Headphones,Accessories,Phoenix,7,492.78,266.1,226.68
+2023-04-27,Printer,Accessories,Houston,3,2894.88,1939.57,955.31
+2023-01-06,Tablet,Electronics,Houston,6,2953.82,2067.67,886.15
+2023-08-19,Headphones,Accessories,Los Angeles,15,1005.59,663.69,341.9
+2023-03-23,Printer,Accessories,Phoenix,11,1024.09,409.64,614.45
+2023-12-10,Phone,Electronics,Chicago,18,1254.47,602.15,652.32
+2023-05-16,Phone,Electronics,New York,16,2838.23,1447.5,1390.73
+2023-04-13,Phone,Electronics,Houston,1,1617.64,857.35,760.29
+2023-02-14,Monitor,Peripherals,Chicago,6,2951.74,2036.7,915.04
+2023-02-08,Headphones,Accessories,Phoenix,17,1055.83,601.82,454.01
+2023-10-23,Phone,Electronics,Chicago,16,1450.63,768.83,681.8
+2023-08-18,Monitor,Peripherals,Chicago,20,2340.59,1404.35,936.24
+2023-02-14,Printer,Accessories,Houston,13,2938.79,1351.84,1586.95
+2023-07-12,Tablet,Electronics,Chicago,11,1868.02,1046.09,821.93
+2023-07-03,Laptop,Electronics,Los Angeles,16,1370.09,698.75,671.34
+2023-11-20,Tablet,Electronics,New York,6,2046.78,859.65,1187.13
+2023-07-29,Headphones,Accessories,Los Angeles,10,2500.6,1000.24,1500.36
+2023-11-22,Printer,Accessories,Houston,8,2975.51,1696.04,1279.47
+2023-09-02,Laptop,Electronics,New York,5,449.71,283.32,166.39
+2023-03-28,Laptop,Electronics,Chicago,8,2223.93,1378.84,845.09
+2023-04-07,Tablet,Electronics,Los Angeles,4,2441.6,1660.29,781.31
+2023-04-19,Keyboard,Peripherals,Houston,8,696.01,368.89,327.12
+2023-12-28,Monitor,Peripherals,Los Angeles,15,1368.71,684.36,684.36
+2023-01-28,Laptop,Electronics,Houston,11,1225.6,674.08,551.52
+2023-06-22,Phone,Electronics,Houston,1,955.0,458.4,496.6
+2023-05-27,Headphones,Accessories,Phoenix,2,1290.39,645.2,645.2
+2023-07-24,Keyboard,Peripherals,Los Angeles,9,497.09,293.28,203.81
+2023-11-07,Phone,Electronics,Houston,15,557.72,301.17,256.55
+2023-04-12,Laptop,Electronics,Chicago,9,953.24,495.68,457.56
+2023-01-16,Printer,Accessories,Phoenix,7,1423.35,782.84,640.51
+2023-09-15,Printer,Accessories,Los Angeles,1,1623.67,990.44,633.23
+2023-09-11,Keyboard,Peripherals,Chicago,3,1486.34,713.44,772.9
+2023-09-29,Monitor,Peripherals,Chicago,18,672.45,295.88,376.57
+2023-09-22,Headphones,Accessories,Chicago,14,2804.44,1149.82,1654.62
+2023-12-22,Printer,Accessories,Los Angeles,6,1132.21,769.9,362.31
+2023-04-30,Phone,Electronics,New York,12,2603.32,1588.03,1015.29
+2023-04-09,Phone,Electronics,Houston,19,410.24,168.2,242.04
+2023-10-23,Tablet,Electronics,New York,17,1268.78,647.08,621.7
+2023-08-22,Headphones,Accessories,Chicago,11,484.58,227.75,256.83
+2023-12-06,Laptop,Electronics,Phoenix,2,2975.23,1487.62,1487.62
+2023-09-17,Printer,Accessories,Chicago,5,2401.99,1128.94,1273.05
+2023-10-03,Headphones,Accessories,Phoenix,2,621.62,435.13,186.49
+2023-07-14,Printer,Accessories,Houston,18,2548.76,1631.21,917.55
+2023-06-24,Laptop,Electronics,Phoenix,4,1350.48,918.33,432.15
+2023-11-14,Phone,Electronics,New York,6,2167.64,1018.79,1148.85
+2023-04-09,Laptop,Electronics,Houston,6,2645.24,1269.72,1375.52
+2023-11-01,Tablet,Electronics,Chicago,18,647.66,440.41,207.25
+2023-10-14,Laptop,Electronics,Chicago,5,731.68,497.54,234.14
+2023-04-07,Tablet,Electronics,Chicago,11,703.81,436.36,267.45
+2023-01-07,Laptop,Electronics,Chicago,18,2229.19,1136.89,1092.3
+2023-08-02,Keyboard,Peripherals,Phoenix,5,2295.19,1583.68,711.51
+2023-11-20,Monitor,Peripherals,Los Angeles,16,2372.97,1020.38,1352.59
